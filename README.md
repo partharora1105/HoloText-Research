@@ -41,4 +41,4 @@ To use HoloText:
 HoloText is released under the MIT License. See the LICENSE file for details.
 
 ## Credits
-HoloText was created by Rajandeep Singh, Srikanth , and Parth Arora for Contextual Computing Lab at Georgia Tech.
+HoloText was created by Rajandeep Singh, Srikanth Tindivanam Varadharajan, and Parth Arora for Contextual Computing Lab at Georgia Tech.
